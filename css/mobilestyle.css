@@ -1,0 +1,30 @@
+.main-container {
+    margin:15% 5%;
+    display: block;
+
+}
+ 
+.container {
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 2rem;
+    box-sizing: border-box;   
+}
+
+.left {
+  
+    background-color: var(--Bright-orange);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 0;
+    
+ 
+ }
+
+ .right {
+    background-color: var(--Very-dark-cyan);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 0;
+}
